@@ -13,6 +13,36 @@
 
 ---
 
+## 🧰 Detailed Tech Stack
+
+### 🎨 Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React, React Router
+- Tailwind CSS, shadcn/ui
+- Vite
+
+### 🛠️ Backend
+- Node.js, Express.js
+- JWT Authentication
+- MongoDB, MySQL, PostgreSQL
+- Insomnia
+
+### 🎛️ UI/UX & Tools
+- Tailwind CSS & shadcn/ui
+- Figma, Excalidraw
+
+### 🚀 Deployment & Management
+- GitHub Pages, Netlify, Render
+- Git, Linux
+- Trello, Linear
+
+### 📚 Knowledge & Productivity
+- Obsidian
+- Neovim, VS Code
+- LaTeX, Markdown
+
+---
+
 ### 🛠️ Projects
 - [ChallengeME](https://github.com/MarkovicBob/challengeme) – outdoor challenge app (React + Node.js + MongoDB)  
   🔗 [Live Demo](https://challengemerpb.netlify.app/)
@@ -23,6 +53,13 @@
 ### 📫 Get in touch
 - [LinkedIn Profile](https://www.linkedin.com/in/boban-markovic-b820b415a)  
 - Email: sayby19@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Boban's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkovicBob&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
