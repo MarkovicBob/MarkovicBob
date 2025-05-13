@@ -7,7 +7,7 @@
 ---
 
 🔧 Tech Stack:  
-· React · Node.js · TypeScript · Express · MongoDB · TailwindCSS · Vite · Git · REST APIs
+· React · Node.js · Express · MongoDB · TailwindCSS · Vite · Git · REST APIs
 
 🚀 My transition from DSLR to IDE helped me bring creativity, structure, and precision into the world of web development.
 
