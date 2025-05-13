@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I'm Boban Marković
 
-<!--
-**MarkovicBob/MarkovicBob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Full Stack Web Developer with a creative background – I spent 10+ years as a photographer before diving into code.
 
-Here are some ideas to get you started:
+💻 Currently working on **ChallengeME**, a web app that motivates people to get outside and complete real-world challenges. Built with React, Node.js, MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack:  
+· React · Node.js · TypeScript · Express · MongoDB · TailwindCSS · Git · REST APIs
+
+🚀 My transition from DSLR to IDE helped me bring creativity, structure, and precision into the world of web development.
+
+---
+
+### 🛠️ Projects
+- [ChallengeME](https://github.com/MarkovicBob/challengeme) – outdoor challenge app (React + Node.js + MongoDB)  
+  🔗 [Live Demo](https://challengemerpb.netlify.app/)
+- More projects coming soon... ⏳
+
+---
+
+### 📫 Get in touch
+- [LinkedIn Profile](https://www.linkedin.com/in/boban-markovic-b820b415a)  
+- Email: sayby19@gmail.com
+
+---
+
+🎓 Currently finishing Full Stack Web Development Bootcamp  
+📍 Based in Germany
