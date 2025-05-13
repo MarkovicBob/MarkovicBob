@@ -69,8 +69,7 @@
 
 ## 📊 GitHub Stats
 
-![Boban's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkovicBob&layout=compact&theme=tokyonight&hide_border=true)
-
+![Boban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkovicBob&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
