@@ -16,7 +16,7 @@
 ## 🧰 Detailed Tech Stack
 
 <details>
-### <summary>🎨 Frontend</summary>
+<summary>🎨 Frontend</summary>
   
 - HTML5, CSS3, JavaScript (ES6+), TypeScript
 - React, React Router
@@ -26,7 +26,7 @@
 </details>
 
 <details>
-###  <summary>🛠️ Backend</summary>
+<summary>🛠️ Backend</summary>
   
 - Node.js, Express.js
 - JWT Authentication
@@ -36,7 +36,7 @@
 </details>
 
 <details>
-###  <summary> 🎛️ UI/UX & Tools</summary>
+<summary> 🎛️ UI/UX & Tools</summary>
   
 - Tailwind CSS, DaisyUI
 - Figma, Excalidraw, Photoshop, Illustrator
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-### <summary>🚀 Deployment & Management</summary>
+<summary>🚀 Deployment & Management</summary>
   
 - GitHub Pages, Netlify, Render
 - Git
