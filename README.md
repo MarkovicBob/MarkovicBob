@@ -13,33 +13,53 @@
 
 ---
 
-## 🧰 Detailed Tech Stack
 <details>
-### <summary>🎨 Frontend</summary>
-- HTML5, CSS3, JavaScript (ES6+), TypeScript
-- React, React Router
-- Tailwind CSS
+<summary>🎨 <strong>Frontend</strong></summary>
+
+- HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- React, React Router  
+- Tailwind CSS  
 - Vite
+
 </details>
+
 <details>
-###  <summary>🛠️ Backend</summary>
-- Node.js, Express.js
-- JWT Authentication
-- MongoDB, MySQL, PostgreSQL
-- Postaman, Insomnia
+<summary>🛠️ <strong>Backend</strong></summary>
+
+- Node.js, Express.js  
+- JWT Authentication  
+- MongoDB, MySQL, PostgreSQL  
+- Postman, Insomnia  
 - RestAPI
+
 </details>
+
 <details>
-###  <summary> 🎛️ UI/UX & Tools</summary>
-- Tailwind CSS, DaisyUI
+<summary>🎛️ <strong>UI/UX & Tools</strong></summary>
+
+- Tailwind CSS, DaisyUI  
 - Figma, Excalidraw, Photoshop, Illustrator
+
 </details>
+
 <details>
-### <summary>🚀 Deployment & Management</summary>
-- GitHub Pages, Netlify, Render
-- Git
-- Trello
+<summary>🚀 <strong>Deployment & Management</strong></summary>
+
+- GitHub Pages, Netlify, Render  
+- Git, Linux  
+- Trello, Linear
+
 </details>
+
+<details>
+<summary>📚 <strong>Knowledge & Productivity</strong></summary>
+
+- Obsidian  
+- Neovim, VS Code  
+- LaTeX, Markdown
+
+</details>
+
 ---
 
 ### 🛠️ Projects
