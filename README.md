@@ -14,29 +14,32 @@
 ---
 
 ## 🧰 Detailed Tech Stack
-
+<details>
 ### <summary>🎨 Frontend</summary>
 - HTML5, CSS3, JavaScript (ES6+), TypeScript
 - React, React Router
 - Tailwind CSS
 - Vite
-
+</details>
+<details>
 ###  <summary>🛠️ Backend</summary>
 - Node.js, Express.js
 - JWT Authentication
 - MongoDB, MySQL, PostgreSQL
 - Postaman, Insomnia
 - RestAPI
-
+</details>
+<details>
 ###  <summary> 🎛️ UI/UX & Tools</summary>
 - Tailwind CSS, DaisyUI
 - Figma, Excalidraw, Photoshop, Illustrator
-
+</details>
+<details>
 ### <summary>🚀 Deployment & Management</summary>
 - GitHub Pages, Netlify, Render
 - Git
 - Trello
-
+</details>
 ---
 
 ### 🛠️ Projects
