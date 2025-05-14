@@ -64,7 +64,8 @@
 - [PokeBattleGame](https://github.com/MarkovicBob/GP-f-PokeBattleGame) – Pokémon battle simulator  
   🧩 Frontend: React, Vite, Tailwind CSS, REST APIs
   ⚙️ Backend: Node.js, Express, Neon, MySQL
-  🔧 [Backend Repo](https://github.com/MarkovicBob/backend-pokebattlegame) 
+  🔧 [Backend Repo](https://github.com/MarkovicBob/backend-pokebattlegame)
+  
   🔗 [Live Demo](https://pokebattlegame.netlify.app/)
 
 - More projects coming soon... ⏳
