@@ -55,14 +55,18 @@
 ---
 
 ### 🛠️ Projects
-- [ChallengeME](https://github.com/MarkovicBob/challengeme) – outdoor challenge app (React + Node.js + MongoDB)  
+- [ChallengeME](https://github.com/MarkovicBob/f-challengeme) – outdoor challenge app (React + Node.js + MongoDB)  
   🔗 [Live Demo](https://challengemerpb.netlify.app/)
 
 - [Weather App](https://github.com/MarkovicBob/weather-app) – responsive weather forecast app (React, CSS, REST APIs)  
   🔗 [Live Demo](https://skywatch2025.netlify.app/)
 
-- More projects coming soon... ⏳
+- [PokeBattleGame](https://github.com/MarkovicBob/GP-f-PokeBattleGame) – Pokémon battle simulator  
+  🧩 Frontend: React, Vite, Tailwind CSS, REST APIs  
+  ⚙️ Backend: Node.js, Express, Neon, MySQL  
+  🔗 [Live Demo](https://pokebattlegame.netlify.app/)
 
+- More projects coming soon... ⏳
 
 ---
 
