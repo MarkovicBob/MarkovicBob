@@ -31,7 +31,7 @@
 - Node.js, Express.js
 - JWT Authentication
 - MongoDB, MySQL, PostgreSQL
-- Postaman, Insomnia
+- Postman, Insomnia
 - RestAPI
 </details>
 
@@ -62,11 +62,9 @@
   🔗 [Live Demo](https://skywatch2025.netlify.app/)
 
 - [PokeBattleGame](https://github.com/MarkovicBob/GP-f-PokeBattleGame) – Pokémon battle simulator  
-  🧩 Frontend: React, Vite, Tailwind CSS, REST APIs
-  
-  ⚙️ Backend: Node.js, Express, Neon, MySQL
-  🔧 [Backend Repo](https://github.com/MarkovicBob/backend-pokebattlegame)
-  
+  🧩 Frontend: React, Vite, Tailwind CSS, REST APIs  
+  ⚙️ Backend: Node.js, Express, Neon, MySQL  
+  🔧 [Backend Repo](https://github.com/MarkovicBob/backend-pokebattlegame)  
   🔗 [Live Demo](https://pokebattlegame.netlify.app/)
 
 - More projects coming soon... ⏳
