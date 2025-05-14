@@ -57,7 +57,12 @@
 ### 🛠️ Projects
 - [ChallengeME](https://github.com/MarkovicBob/challengeme) – outdoor challenge app (React + Node.js + MongoDB)  
   🔗 [Live Demo](https://challengemerpb.netlify.app/)
+
+- [Weather App](https://github.com/MarkovicBob/weather-app) – responsive weather forecast app (React, CSS, REST APIs)  
+  🔗 [Live Demo](https://skywatch2025.netlify.app/)
+
 - More projects coming soon... ⏳
+
 
 ---
 
