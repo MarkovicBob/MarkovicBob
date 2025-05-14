@@ -2,7 +2,7 @@
 
 🎯 Full Stack Web Developer with a creative background – I spent 10+ years as a photographer before diving into code.
 
-💻 Currently working on ChallengeME, a mobile-first web app that motivates people to get outside and complete real-world challenges. Built with React, Node.js, and MongoDB.
+💻 Currently working on [ChallengeME](https://challengemerpb.netlify.app/start/home), a mobile-first web app that motivates people to get outside and complete real-world challenges. Built with React, Node.js, and MongoDB.
 
 ---
 
