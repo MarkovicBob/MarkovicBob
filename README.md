@@ -3,24 +3,14 @@
 🎯 Full Stack Web Developer with a creative background – I spent 10+ years as a photographer before diving into code.
 
 💻 Currently working on :
-1.[RippleFeed] Social Media Application
-RippleFeed is a modern social media platform inspired by Threads, built with React and TypeScript, and styled using Tailwind CSS.
-It leverages MongoDB for database management and Firebase for authentication and media storage.
+1. # 🌊 RippleFeed – Social Media Application
 
-RippleFeed allows users to:
+RippleFeed is a modern social media platform inspired by **Threads**, built with **React** and **TypeScript**, and styled using **Tailwind CSS**.  
+It uses **MongoDB** for database management and **Firebase** for authentication and media storage.
 
-Create and share posts in real time
 
-Follow and interact with other users
 
-Engage in community discussions
-
-Enjoy a clean, responsive, and mobile-friendly interface
-
-Tech Stack: React, TypeScript, Tailwind CSS, MongoDB, Firebase
-Status: In active development
-
-2.[ChallengeME](https://challengemerpb.netlify.app/start/home), a mobile-first web app that motivates people to get outside and complete real-world challenges. Built with React, Node.js, and MongoDB.
+2. [ChallengeME](https://challengemerpb.netlify.app/start/home), a mobile-first web app that motivates people to get outside and complete real-world challenges. Built with React, Node.js, and MongoDB.
 
 ---
 
