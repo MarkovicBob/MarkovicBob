@@ -93,6 +93,17 @@ It uses **MongoDB** for database management and **Firebase** for authentication 
   🔧 [Backend Repo](https://github.com/MarkovicBob/backend-pokebattlegame)  
   🔗 [Live Demo](https://pokebattlegame.netlify.app/)
 
+- [ImageFinder]() – Professional image search application with Node.js/Express backend proxy architecture. Ensures secure API integration, advanced pagination, and responsive image gallery with optimized performance.
+  🧩 Frontend: React, Vite, Tailwind CSS, Unsplash API
+  ⚙️ Backend: Node.js, Express, MongoDB
+  🔧 [Repo](https://github.com/MarkovicBob/ImageFinder) 
+  🔗 [Live Demo](https://app.netlify.com/projects/imagefinder2025/overview)
+
+- [TodoList]() – Professional image search application with Node.js/Express backend proxy architecture. Ensures secure API integration, advanced pagination, and responsive image gallery with optimized performance.
+  🧩 Frontend: HTML, CSS, Javascript
+  🔧 [Repo](https://github.com/MarkovicBob/TodoList) 
+  🔗 [Live Demo](https://todolistt2025.netlify.app/)
+  
 - More projects coming soon... ⏳
 
 ---
