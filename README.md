@@ -101,7 +101,7 @@ It uses **MongoDB** for database management and **Firebase** for authentication 
 
 - [TodoList]() – Professional image search application with Node.js/Express backend proxy architecture. Ensures secure API integration, advanced pagination, and responsive image gallery with optimized performance.
   🧩 Frontend: HTML, CSS, Javascript
-  🔧 [Repo](https://github.com/MarkovicBob/TodoList) 
+  🔧 [Repo](https://github.com/MarkovicBob/TodoList)
   🔗 [Live Demo](https://todolistt2025.netlify.app/)
   
 - More projects coming soon... ⏳
