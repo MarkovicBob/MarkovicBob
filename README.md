@@ -120,5 +120,3 @@ It uses **MongoDB** for database management and **Firebase** for authentication 
 
 ---
 
-🎓 Currently finishing Full Stack Web Development Bootcamp  
-📍 Based in Germany
