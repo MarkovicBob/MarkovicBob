@@ -6,10 +6,10 @@
                                                   ██████╔╝██║   ██║██████╔╝
                                                   ██╔══██╗██║   ██║██╔══██╗
                                                   ██████╔╝╚██████╔╝██████╔╝
-                                                     ╚═════╝  ╚═════╝ ╚═════╝                    
+                                                            ╚═════╝  ╚═════╝ ╚═════╝                    
 ```
 
-### Full-Stack Software Developer
+### Full-Stack Developer
 **React · Next.js · TypeScript · Node.js · Express · MongoDB · MySQL**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://portfoliobob.netlify.app)
