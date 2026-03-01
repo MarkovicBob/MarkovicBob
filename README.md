@@ -9,7 +9,7 @@
                                                                               
 ```
 
-### Full-Stack Developer
+### Full-Stack Software Developer
 **React · Next.js · TypeScript · Node.js · Express · MongoDB · MySQL**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://portfoliobob.netlify.app)
@@ -53,7 +53,7 @@ Tools     →  Git · Docker (Basics) · Postman · Vite
 | 🌊 **RippleFeed** — Social media platform (Threads-inspired) | TypeScript · Next.js · MERN · JWT | — |
 | 🎯 **ChallengeME** — Outdoor challenge app | React · Node.js · MongoDB | [▶ Demo](https://challengemerpb.netlify.app/) |
 | 🌤 **SkyWatch2025** — Weather dashboard | React · Node.js · API Integration | [▶ Demo](https://skywatch2025.netlify.app/) |
-| 💌 **Mina Invite** — RSVP & guest management backend | Node.js · Express · MongoDB | — |
+| 💌 **Viktor Invite** — RSVP & guest management system | Node.js · Express · MongoDB | [▶ Demo](https://viktorinvite.netlify.app/) |
 | 🖼 **ImageFinder** — Secure image search (proxy architecture) | React · Express · Unsplash API | [▶ Demo](https://imagefinder2025.netlify.app/) |
 | ⚔️ **PokéBattleGame** — Pokémon battle simulator | React · Node.js · MySQL · Neon | [▶ Demo](https://pokebattlegame.netlify.app/) |
 
@@ -70,9 +70,9 @@ React · Next.js · TypeScript · Node.js · Express · MongoDB · MySQL · Agil
 
 <div align="center">
 
-![Boban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkovicBob&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![GitHub Streak](https://streak-stats.demolab.com?user=MarkovicBob&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkovicBob&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarkovicBob&theme=tokyonight)
 
 </div>
 
