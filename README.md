@@ -50,7 +50,7 @@
 > **The problem:** Applying for jobs is slow, repetitive, and soul-crushing.  
 > **My solution:** AI that tailors your CV & cover letter per job in seconds.
 
-`TypeScript` · `Next.js` · `Node.js` · `MongoDB` · `AI Integration`
+`TypeScript` · `Node.js` · `Express` · `Supabase` · `REST API` · `AI Integration`
 
 ---
 
@@ -83,6 +83,6 @@
 
 **WBS Coding School Berlin** `2025` · Full-Stack Web & App Development
 
-📍 Weilheim, Germany · Open to remote & hybrid 
+📍 Weilheim, Germany · Open to remote & hybrid · 🇩🇪 B2 · 🇬🇧 B2
 
 </div>
