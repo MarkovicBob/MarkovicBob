@@ -1,12 +1,12 @@
 <div align="center">
 
-```                                                                             
-                                                  ██████╗  ██████╗ ██████╗ 
-                                                  ██╔══██╗██╔═══██╗██╔══██╗
-                                                  ██████╔╝██║   ██║██████╔╝
-                                                  ██╔══██╗██║   ██║██╔══██╗
-                                                  ██████╔╝╚██████╔╝██████╔╝
-                                                                              
+```
+██████╗  ██████╗ ██████╗  █████╗ ███╗   ██╗
+██╔══██╗██╔═══██╗██╔══██╗██╔══██╗████╗  ██║
+██████╔╝██║   ██║██████╔╝███████║██╔██╗ ██║
+██╔══██╗██║   ██║██╔══██╗██╔══██║██║╚██╗██║
+██████╔╝╚██████╔╝██████╔╝██║  ██║██║ ╚████║
+╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
 ### Full-Stack Software Developer
@@ -70,9 +70,9 @@ React · Next.js · TypeScript · Node.js · Express · MongoDB · MySQL · Agil
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MarkovicBob&theme=tokyonight&hide_border=true)
+![snake](https://github.com/MarkovicBob/MarkovicBob/blob/output/github-contribution-grid-snake-dark.svg)
 
-![GitHubGraph](https://github-readme-activity-graph.vercel.app/graph?username=MarkovicBob&theme=tokyo-night)
+![GitHub Streak](https://streak-stats.demolab.com?user=MarkovicBob&theme=tokyonight&hide_border=true)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
