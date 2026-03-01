@@ -1,7 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=header&text=Bob%20Markovic&fontSize=50&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Developer%20%7C%20MERN%20%C2%B7%20TypeScript%20%C2%B7%20Next.js&descSize=18&descAlignY=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=140&section=header&text=Boban%20Markovic&fontSize=50&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%C2%B7%20TypeScript%20%C2%B7%20Next.js&descSize=20&descAlignY=78)
 
+### `< Full-Stack Developer />` · MERN · TypeScript · Next.js
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](https://portfoliobob.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobmardev)
