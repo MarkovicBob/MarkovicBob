@@ -1,122 +1,85 @@
-# 👋 Hi there, I'm Boban Marković
+<div align="center">
 
-🎯 Full Stack Web Developer with a creative background – I spent 10+ years as a photographer before diving into code.
+```
+██████╗  ██████╗ ██████╗ 
+██╔══██╗██╔═══██╗██╔══██╗
+██████╔╝██║   ██║██████╔╝
+██╔══██╗██║   ██║██╔══██╗
+██████╔╝╚██████╔╝██████╔╝
+╚═════╝  ╚═════╝ ╚═════╝ 
+```
 
-💻 Currently working on :
-# 🌊 RippleFeed – Social Media Application
+### Full-Stack Software Developer
+**React · Next.js · TypeScript · Node.js · Express · MongoDB · MySQL**
 
-RippleFeed is a modern social media platform inspired by **Threads**, built with **React** and **TypeScript**, and styled using **Tailwind CSS**.  
-It uses **MongoDB** for database management and **Firebase** for authentication and media storage.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://portfoliobob.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobmardev)
+[![Email](https://img.shields.io/badge/sayby19@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayby19@gmail.com)
 
----
-
-## ✨ Features
-
-- 📝 Create and share posts in real time  
-- 👥 Follow and interact with other users  
-- 💬 Participate in community discussions  
-- 📱 Responsive and mobile-friendly interface  
-
----
-
-## 🛠 Tech Stack
-
-| Technology | Description |
-|------------|-------------|
-| ⚛️ **React** | Frontend library for building UI |
-| 📘 **TypeScript** | Strongly typed JavaScript |
-| 🎨 **Tailwind CSS** | Utility-first CSS framework |
-| 🍃 **MongoDB** | NoSQL database for data storage |
-| 🔥 **Firebase** | Authentication & media storage |
-
+</div>
 
 ---
 
-🔧 Tech Stack:  
-· React · Node.js · Express · MongoDB · TailwindCSS · Vite · Git · REST APIs
-
-🚀 My transition from DSLR to IDE helped me bring creativity, structure, and precision into the world of web development.
+> **From DSLR to IDE** — 10+ years behind the lens taught me precision, composition, and storytelling. Now I bring that same eye to every line of code.
 
 ---
 
-## 🧰 Detailed Tech Stack
+## 🔥 What I Build
 
-<details>
-<summary>🎨 Frontend</summary>
-  
-- HTML5, CSS3, JavaScript (ES6+), TypeScript
-- React, React Router
-- Tailwind CSS
-- Vite
-  
-</details>
+```
+Frontend  →  React · Next.js · TypeScript · TailwindCSS · Figma
+Backend   →  Node.js · Express · REST APIs · JWT Auth
+Database  →  MongoDB · MySQL · Schema Design · Indexing
+Tools     →  Git · Docker (Basics) · Postman · Vite
+```
 
-<details>
-<summary>🛠️ Backend</summary>
-  
-- Node.js, Express.js
-- JWT Authentication
-- MongoDB, MySQL, PostgreSQL
-- Postman, Insomnia
-- RestAPI
-</details>
-
-<details>
-<summary> 🎛️ UI/UX & Tools</summary>
-  
-- Tailwind CSS, DaisyUI
-- Figma, Excalidraw, Photoshop, Illustrator
-  
-</details>
-
-<details>
-<summary>🚀 Deployment & Management</summary>
-  
-- GitHub Pages, Netlify, Render
-- Git
-- Trello
-  
-</details>
+**Clean code. Scalable architecture. Pixel-perfect UIs.**
 
 ---
 
-### 🛠️ Projects
-- [ChallengeME](https://github.com/MarkovicBob/f-challengeme) – outdoor challenge app (React + Node.js + MongoDB)  
-  🔗 [Live Demo](https://challengemerpb.netlify.app/)
+## 🚀 Current Project
 
-- [Weather App](https://github.com/MarkovicBob/weather-app) – responsive weather forecast app (React, CSS, REST APIs)  
-  🔗 [Live Demo](https://skywatch2025.netlify.app/)
+### `clever_apply` — AI-Powered Job Application Tool *(In Progress)*
+> Helping developers apply smarter — tailored CVs, cover letters, and application tracking in one place.
 
-- [PokeBattleGame](https://github.com/MarkovicBob/GP-f-PokeBattleGame) – Pokémon battle simulator  
-  🧩 Frontend: React, Vite, Tailwind CSS, REST APIs  
-  ⚙️ Backend: Node.js, Express, Neon, MySQL  
-  🔧 [Backend Repo](https://github.com/MarkovicBob/backend-pokebattlegame)  
-  🔗 [Live Demo](https://pokebattlegame.netlify.app/)
-
-- [ImageFinder]() – Professional image search application with Node.js/Express backend proxy architecture. Ensures secure API integration, advanced pagination, and responsive image gallery with optimized performance.
-  🧩 Frontend: React, Vite, Tailwind CSS, Unsplash API
-  ⚙️ Backend: Node.js, Express, MongoDB
-  🔧 [Repo](https://github.com/MarkovicBob/ImageFinder) 
-  🔗 [Live Demo](https://app.netlify.com/projects/imagefinder2025/overview)
-
-- [TodoList]() – Professional image search application with Node.js/Express backend proxy architecture. Ensures secure API integration, advanced pagination, and responsive image gallery with optimized performance.
-  🧩 Frontend: HTML, CSS, Javascript
-  🔧 [Repo](https://github.com/MarkovicBob/TodoList)
-  🔗 [Live Demo](https://todolistt2025.netlify.app/)
-  
-- More projects coming soon... ⏳
+`React` `TypeScript` `Node.js` `MongoDB` `REST API`
 
 ---
 
-### 📫 Get in touch
-- [LinkedIn Profile](https://www.linkedin.com/in/boban-markovic-b820b415a)  
-- Email: sayby19@gmail.com
+## 📦 Featured Projects
+
+| Project | Stack | Live |
+|--------|-------|------|
+| 🌊 **RippleFeed** — Social media platform (Threads-inspired) | TypeScript · Next.js · MERN · JWT | — |
+| 🎯 **ChallengeME** — Outdoor challenge app | React · Node.js · MongoDB | [▶ Demo](https://challengemerpb.netlify.app/) |
+| 🌤 **SkyWatch2025** — Weather dashboard | React · Node.js · API Integration | [▶ Demo](https://skywatch2025.netlify.app/) |
+| 💌 **Mina Invite** — RSVP & guest management backend | Node.js · Express · MongoDB | — |
+| 🖼 **ImageFinder** — Secure image search (proxy architecture) | React · Express · Unsplash API | [▶ Demo](https://imagefinder2025.netlify.app/) |
+| ⚔️ **PokéBattleGame** — Pokémon battle simulator | React · Node.js · MySQL · Neon | [▶ Demo](https://pokebattlegame.netlify.app/) |
+
+---
+
+## 🎓 Training
+
+**Full-Stack Web & App Development** — *WBS Coding School, Berlin* `Jan–May 2025`  
+React · Next.js · TypeScript · Node.js · Express · MongoDB · MySQL · Agile · Clean Code
 
 ---
 
 ## 📊 GitHub Stats
 
-![Boban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkovicBob&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+
+![Boban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkovicBob&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkovicBob&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
+<div align="center">
+
+*📍 Weilheim, Germany · Available for remote & hybrid roles · DE/EN B2*
+
+</div>
