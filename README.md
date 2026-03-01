@@ -1,15 +1,16 @@
 <div align="center">
 
 ```
-██████╗  ██████╗ ██████╗  █████╗ ███╗   ██╗
-██╔══██╗██╔═══██╗██╔══██╗██╔══██╗████╗  ██║
-██████╔╝██║   ██║██████╔╝███████║██╔██╗ ██║
-██╔══██╗██║   ██║██╔══██╗██╔══██║██║╚██╗██║
-██████╔╝╚██████╔╝██████╔╝██║  ██║██║ ╚████║
-╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+ ██████╗  ██████╗ ██████╗ 
+ ██╔══██╗██╔═══██╗██╔══██╗
+ ██████╔╝██║   ██║██████╔╝
+ ██╔══██╗██║   ██║██╔══██╗
+ ██████╔╝╚██████╔╝██████╔╝
+ ╚═════╝  ╚═════╝ ╚═════╝ 
 ```
 
-### Full-Stack Software Developer
+# BOB MARKOVIC
+### Full-Stack Developer | React · Node.js · TypeScript
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -44,7 +45,7 @@
 
 ---
 
-## 🔥 What I Build
+## ⚡ Tech Stack
 
 ```
 Frontend  →  React · Next.js · TypeScript · TailwindCSS · Figma
