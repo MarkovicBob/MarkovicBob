@@ -72,7 +72,7 @@ React · Next.js · TypeScript · Node.js · Express · MongoDB · MySQL · Agil
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MarkovicBob&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarkovicBob&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarkovicBob&theme=tokyonight)
 
 </div>
 
