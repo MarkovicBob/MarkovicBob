@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=160&section=header&text=Boban%20Markovic&fontSize=55&fontColor=ffffff&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=header&text=Boban%20Markovic&fontSize=55&fontColor=ffffff&fontAlignY=65)
 
 [![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=%3C+Full-Stack+Developer+%2F%3E;MERN+Stack+%7C+TypeScript+%7C+Next.js;Clean+Code.+Scalable+Architecture.)](https://git.io/typing-svg)
 
