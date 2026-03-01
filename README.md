@@ -83,6 +83,6 @@
 
 **WBS Coding School Berlin** `2025` · Full-Stack Web & App Development
 
-📍 Weilheim, Germany · Open to remote & hybrid · 🇩🇪 B2 · 🇬🇧 B2
+📍 Weilheim, Germany · Open to remote & hybrid 
 
 </div>
