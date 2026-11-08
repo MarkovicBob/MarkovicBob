@@ -59,25 +59,68 @@
 
 ## 🚀 Featured Projects
 
-| | Project | Stack | Live |
-|--|---------|-------|------|
-| 🤖 | **Clever Apply** — AI job application assistant (web + mobile) | React · TypeScript · Node.js · Supabase · OpenAI/Claude | [▶ Live](https://clever-apply.vercel.app) |
-| 🛍 | **Luxe Commerce** — E-commerce with 250+ products, 4-step checkout, admin analytics | Angular 18 · FastAPI · PostgreSQL · SQLAlchemy · Docker | [▶ Screens](https://portfoliobob.netlify.app/#projects) |
-| 📄 | **CVMatch Pro** — AI CV optimizer with ATS score & PDF export | React · TypeScript · FastAPI · Supabase · Claude | [▶ Screens](https://portfoliobob.netlify.app/#projects) |
-| 📈 | **ProfitRadar AI** — Marketplace arbitrage scanner with AI risk scoring | Next.js · TypeScript · Supabase · Playwright · Claude | [▶ Screens](https://portfoliobob.netlify.app/#projects) |
-| 🎮 | **EloPremier** — Live CS2 Premier rating overlay for streamers | Python · FastAPI · SQLAlchemy · Steam OpenID | [▶ Screens](https://portfoliobob.netlify.app/#projects) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://clever-apply.vercel.app"><img src="https://portfoliobob.netlify.app/projects/clever/1.webp" alt="Clever Apply screenshot" width="100%"></a>
+<br><b>Clever Apply</b> — AI job application assistant (web + iOS/Android): job analysis, match score 0–100, tailored DE/EN cover letters
+<br><sub>React · React Native · TypeScript · Node.js · Supabase · OpenAI/Claude</sub>
+<br><a href="https://clever-apply.vercel.app">▶ Live</a> · <a href="https://portfoliobob.netlify.app/projects/clever/demo.mp4">🎬 Demo video</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://portfoliobob.netlify.app/projects/luxe/demo.mp4"><img src="https://portfoliobob.netlify.app/projects/luxe/1.webp" alt="Luxe Commerce screenshot" width="100%"></a>
+<br><b>Luxe Commerce</b> — E-commerce with 250+ products, 4-step checkout and admin analytics, SR/EN/DE
+<br><sub>Angular 18 · FastAPI · PostgreSQL · SQLAlchemy · Docker</sub>
+<br><a href="https://portfoliobob.netlify.app/projects/luxe/demo.mp4">🎬 Demo video</a> · <a href="https://github.com/MarkovicBob/E-Commerce">💻 Code</a> · <a href="https://portfoliobob.netlify.app/#projects">🖼 Screens</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://portfoliobob.netlify.app/projects/cvmatch/demo.mp4"><img src="https://portfoliobob.netlify.app/projects/cvmatch/1.webp" alt="CVMatch Pro screenshot" width="100%"></a>
+<br><b>CVMatch Pro</b> — AI CV optimizer: ATS score, missing keywords, rewritten CV as PDF
+<br><sub>React · TypeScript · FastAPI · Supabase · Claude</sub>
+<br><a href="https://portfoliobob.netlify.app/projects/cvmatch/demo.mp4">🎬 Demo video</a> · <a href="https://github.com/MarkovicBob/cv-shine-ai">💻 Code</a> · <a href="https://portfoliobob.netlify.app/#projects">🖼 Screens</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://portfoliobob.netlify.app/projects/radar/demo.mp4"><img src="https://portfoliobob.netlify.app/projects/radar/1.webp" alt="ProfitRadar AI screenshot" width="100%"></a>
+<br><b>ProfitRadar AI</b> — Marketplace arbitrage scanner with Playwright scrapers and AI profit/risk scoring
+<br><sub>Next.js · TypeScript · Supabase · Playwright · Claude</sub>
+<br><a href="https://portfoliobob.netlify.app/projects/radar/demo.mp4">🎬 Demo video</a> · <a href="https://portfoliobob.netlify.app/#projects">🖼 Screens</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://portfoliobob.netlify.app/projects/elo/demo.mp4"><img src="https://portfoliobob.netlify.app/projects/elo/2.webp" alt="EloPremier screenshot" width="100%"></a>
+<br><b>EloPremier</b> — Live CS2 Premier rating overlay for streamers, Steam sign-in, 10 OBS styles
+<br><sub>Python · FastAPI · SQLAlchemy · Steam OpenID</sub>
+<br><a href="https://portfoliobob.netlify.app/projects/elo/demo.mp4">🎬 Demo video</a> · <a href="https://github.com/MarkovicBob/Elo-premier-cs2">💻 Code</a> · <a href="https://portfoliobob.netlify.app/#projects">🖼 Screens</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://portfoliobob.netlify.app/projects/telcoflow/demo.mp4"><img src="https://portfoliobob.netlify.app/projects/telcoflow/1.webp" alt="TelcoFlow screenshot" width="100%"></a>
+<br><b>TelcoFlow</b> — Visual workflow builder for telecom processes and internal tasks
+<br><sub>React · Node.js · Express · MongoDB</sub>
+<br><a href="https://portfoliobob.netlify.app/projects/telcoflow/demo.mp4">🎬 Demo video</a> · <a href="https://github.com/MarkovicBob/TelcoFlow">💻 Code</a>
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>Earlier projects (WBS Coding School)</b></summary>
 
-| | Project | Stack | Live |
-|--|---------|-------|------|
-| 🎯 | **ChallengeME** — Outdoor challenge app | React · Node.js · MongoDB | [▶ Demo](https://challengemerpb.netlify.app/) |
-| 🌊 | **RippleFeed** — Threads-inspired social platform | TypeScript · Next.js · MERN · JWT | — |
-| 🌤 | **SkyWatch2025** — Weather dashboard | React · Axios · OpenWeather API | [▶ Demo](https://skywatch2025.netlify.app/) |
-| 💌 | **Viktor Invite** — RSVP & guest management | Node.js · Express · MongoDB | [▶ Demo](https://viktorinvite.netlify.app/) |
-| 🖼 | **ImageFinder** — Secure image search | React · Express · Unsplash API | [▶ Demo](https://imagefinder2025.netlify.app/) |
-| ⚔️ | **PokéBattleGame** — Pokémon battle simulator | React · Node.js · MySQL | [▶ Demo](https://pokebattlegame.netlify.app/) |
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://challengemerpb.netlify.app/"><img src="https://portfoliobob.netlify.app/projects/challengeme/1.webp" alt="ChallengeME screenshot" width="100%"></a><br><b>ChallengeME</b><br><sub>Outdoor challenge app · React · Node.js · MongoDB</sub><br><a href="https://challengemerpb.netlify.app/">▶ Live</a> · <a href="https://github.com/MarkovicBob/f-challengeme">💻 Code</a></td>
+<td width="33%" valign="top"><a href="https://skywatch2025.netlify.app/"><img src="https://portfoliobob.netlify.app/projects/weather/1.webp" alt="SkyWatch2025 screenshot" width="100%"></a><br><b>SkyWatch2025</b><br><sub>Weather dashboard · React · OpenWeather API</sub><br><a href="https://skywatch2025.netlify.app/">▶ Live</a> · <a href="https://github.com/MarkovicBob/Weather-APP">💻 Code</a></td>
+<td width="33%" valign="top"><a href="https://viktorinvite.netlify.app/"><img src="https://portfoliobob.netlify.app/projects/viktor/1.webp" alt="Viktor Invite screenshot" width="100%"></a><br><b>Viktor Invite</b><br><sub>Invitation & RSVP · React · Node.js · MongoDB</sub><br><a href="https://viktorinvite.netlify.app/">▶ Live</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://imagefinder2025.netlify.app/"><img src="https://portfoliobob.netlify.app/projects/imagefinder/1.webp" alt="ImageFinder screenshot" width="100%"></a><br><b>ImageFinder</b><br><sub>Image search · React · Express · Unsplash API</sub><br><a href="https://imagefinder2025.netlify.app/">▶ Live</a> · <a href="https://github.com/MarkovicBob/ImageFinder">💻 Code</a></td>
+<td width="33%" valign="top"><a href="https://github.com/MarkovicBob/AI_Generator_Image_client"><img src="https://portfoliobob.netlify.app/projects/aigen/1.webp" alt="AI Image Generator screenshot" width="100%"></a><br><b>AI Image Generator</b><br><sub>Text-to-image app · React · Node.js · MongoDB</sub><br><a href="https://github.com/MarkovicBob/AI_Generator_Image_client">💻 Code</a></td>
+<td width="33%" valign="top"><a href="https://todolistt2025.netlify.app/"><img src="https://portfoliobob.netlify.app/projects/todo/1.webp" alt="Todo List screenshot" width="100%"></a><br><b>Todo List</b><br><sub>Task manager · HTML · CSS · JavaScript</sub><br><a href="https://todolistt2025.netlify.app/">▶ Live</a> · <a href="https://github.com/MarkovicBob/TodoList">💻 Code</a></td>
+</tr>
+</table>
+
+Also: **RippleFeed** (Threads-inspired social platform, TypeScript · Next.js · MERN) · **[PokéBattleGame](https://pokebattlegame.netlify.app/)** (React · Node.js · MySQL)
 
 </details>
 
