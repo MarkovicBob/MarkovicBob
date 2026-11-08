@@ -114,8 +114,11 @@
 <td width="33%" valign="top"><a href="https://viktorinvite.netlify.app/"><img src="https://portfoliobob.netlify.app/projects/viktor/1.webp" alt="Viktor Invite screenshot" width="100%"></a><br><b>Viktor Invite</b><br><sub>Invitation & RSVP · React · Node.js · MongoDB</sub><br><a href="https://viktorinvite.netlify.app/">▶ Live</a> · <a href="https://github.com/MarkovicBob/Viktor_pozivnica_frontend">💻 Code</a></td>
 </tr>
 <tr>
+<td width="33%" valign="top"><a href="https://pozivnicamina.netlify.app/"><img src="https://portfoliobob.netlify.app/projects/mina/1.webp" alt="Mina Invitation screenshot" width="100%"></a><br><b>Mina Invitation</b><br><sub>Invitation & RSVP with admin dashboard · React · Node.js · MongoDB</sub><br><a href="https://pozivnicamina.netlify.app/">▶ Live</a> · <a href="https://github.com/MarkovicBob/Mina_pozivnica">💻 Code</a></td>
 <td width="33%" valign="top"><a href="https://imagefinder2025.netlify.app/"><img src="https://portfoliobob.netlify.app/projects/imagefinder/1.webp" alt="ImageFinder screenshot" width="100%"></a><br><b>ImageFinder</b><br><sub>Image search · JavaScript · Express · Unsplash API</sub><br><a href="https://imagefinder2025.netlify.app/">▶ Live</a> · <a href="https://github.com/MarkovicBob/ImageFinder">💻 Code</a></td>
 <td width="33%" valign="top"><a href="https://github.com/MarkovicBob/AI_Generator_Image_client"><img src="https://portfoliobob.netlify.app/projects/aigen/1.webp" alt="AI Image Generator screenshot" width="100%"></a><br><b>AI Image Generator</b><br><sub>Text-to-image app · React · Node.js · MongoDB</sub><br><a href="https://github.com/MarkovicBob/AI_Generator_Image_client">💻 Code</a></td>
+</tr>
+<tr>
 <td width="33%" valign="top"><a href="https://todolistt2025.netlify.app/"><img src="https://portfoliobob.netlify.app/projects/todo/1.webp" alt="Todo List screenshot" width="100%"></a><br><b>Todo List</b><br><sub>Task manager · HTML · CSS · JavaScript</sub><br><a href="https://todolistt2025.netlify.app/">▶ Live</a> · <a href="https://github.com/MarkovicBob/TodoList">💻 Code</a></td>
 </tr>
 </table>
