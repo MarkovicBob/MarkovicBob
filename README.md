@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=header&text=Boban%20Markovi%C4%87&fontSize=55&fontColor=ffffff&fontAlignY=65)
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=720&lines=%3C+Full-Stack+Developer+%2F%3E;React%2FTypeScript+%7C+Node.js+%7C+Python%2FFastAPI;APIs.+Databases.+Real+products.)](https://git.io/typing-svg)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1200&color=1F6FEB&center=true&vCenter=true&width=600&lines=%3C+Full-Stack+Developer+%2F%3E;React+%C2%B7+TypeScript+%C2%B7+Angular;Node.js+%C2%B7+Express;Python+%C2%B7+FastAPI;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Supabase;APIs.+Databases.+Real+products.)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](https://portfoliobob.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobmardev)
